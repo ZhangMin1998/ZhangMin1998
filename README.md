@@ -1,6 +1,6 @@
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZhangMin1998&show_icons=true)](https://github.com/ZhangMin1998/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZhangMin1998&layout=compact)](https://github.com/ZhangMin1998/github-readme-stats)
+
+
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ZhangMin1998/ZhangMin1998/output/github-contribution-grid-snake-dark.svg">
@@ -10,14 +10,10 @@
 
 <div style="display: flex; justify-content: space-between;">
   <div style="border: 1px solid #ccc; padding: 20px; width: 48%;">
-    <!-- 第一个卡片的内容 -->
-    <h2>Card 1</h2>
-    <p>This is the content of Card 1.</p>
+   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZhangMin1998&show_icons=true)](https://github.com/ZhangMin1998/github-readme-stats)
   </div>
   
   <div style="border: 1px solid #ccc; padding: 20px; width: 48%;">
-    <!-- 第二个卡片的内容 -->
-    <h2>Card 2</h2>
-    <p>This is the content of Card 2.</p>
+    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZhangMin1998&layout=compact)](https://github.com/ZhangMin1998/github-readme-stats)
   </div>
 </div>

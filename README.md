@@ -7,3 +7,17 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ZhangMin1998/ZhangMin1998/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ZhangMin1998/ZhangMin1998/output/github-contribution-grid-snake.svg">
 </picture>
+
+<div style="display: flex; justify-content: space-between;">
+  <div style="border: 1px solid #ccc; padding: 20px; width: 48%;">
+    <!-- 第一个卡片的内容 -->
+    <h2>Card 1</h2>
+    <p>This is the content of Card 1.</p>
+  </div>
+  
+  <div style="border: 1px solid #ccc; padding: 20px; width: 48%;">
+    <!-- 第二个卡片的内容 -->
+    <h2>Card 2</h2>
+    <p>This is the content of Card 2.</p>
+  </div>
+</div>

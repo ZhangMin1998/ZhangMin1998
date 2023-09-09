@@ -8,7 +8,7 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZhangMin1998&show_icons=true)](https://github.com/ZhangMin1998/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZhangMin1998&layout=compact)](https://github.com/ZhangMin1998/github-readme-stats)
 
-<h1 align="center">Hi 👋, I'm ZhangMin1998 </h1>
+<h1 align="center">Hi 👋, I'm ZhangMin1998</h1>
 <h3 align="center">A passionate frontend developer from China</h3>
 
 <h3 align="left">Connect with me: 1464253423@qq.com</h3>
